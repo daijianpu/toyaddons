@@ -23,10 +23,11 @@
                 <strong>{{ $page->site->title }}</strong><br>
                 <ul>
                     <li><a href="/">トップページ</a></li>
+                    <li><a href="/pro">商品一覧</a></li>
                     <li><a href="/posts">商品情報</a></li>
-                    <li><a href="/pro">商品情報</a></li>
-                    <li><a href="/about">会社概要</a></li>
-                    <li><a href="/contact">お問い合せは</a></li>
+                     <li><a href="/about">ご注文方法</a></li>
+                     <li><a href="/contact">お問い合せは</a></li>
+                     <li><a href="/about">会社概要</a></li>
                 </ul>
             </nav>
         </header>
@@ -39,7 +40,7 @@
 
         <footer>
             <small>
-             &copy; <span data-year></span>&bull;<a href="/about">ToyAddons</a> 
+             &copy; <span data-year></span>&bull;<a href="/about">ToyAddons</a>All rights reserved.
                &bull;<a href="/contact">お問い合せは</a>
             </small>
         </footer>

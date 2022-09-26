@@ -29,7 +29,7 @@
                     <li><a href="/list">商品一覧</a></li>
                     <li><a href="/posts">新品情報</a></li>
                      <li><a href="/order">ご注文方法</a></li>
-                     <li><a href="/contact">お問い合せは</a></li>
+                     <li><a href="/contact">お問合せ</a></li>
                      <li><a href="/about">会社概要</a></li>
                 </ul>
                 <hr>
@@ -45,8 +45,8 @@
         <footer>
         <hr>
             <small>
-             &copy; <span data-year></span>&bull;<a href="/about">ToyAddons</a>All rights reserved.
-               &bull;<a href="/contact">お問い合せは</a>
+             &copy; <span data-year></span>&bull;<a href="/about">ToyAddons</a> All rights reserved.
+               &bull;<a href="/contact">お問合せ</a>
             </small>
         </footer>
     </section>

@@ -47,6 +47,7 @@
              &copy; <span data-year></span>&bull;<a href="/about">ToyAddons</a>All rights reserved.
                &bull;<a href="/contact">お問い合せは</a>
             </small>
+            <hr>
         </footer>
     </section>
 

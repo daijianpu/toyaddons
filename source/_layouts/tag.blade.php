@@ -12,7 +12,7 @@
                 <small>{{ $post->prettyDate() }}</small>
             </li>
         @empty
-            <p>No posts to show.</p>
+            <p><a href="/contact">お問い合せは</a></p>
         @endforelse
     </ul>
 @endsection

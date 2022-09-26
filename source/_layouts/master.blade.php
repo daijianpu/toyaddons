@@ -22,7 +22,7 @@
             <nav>
                 <nav>
                 <a href="/">
-  <img src="https://img.alicdn.com/imgextra/i3/2710706468/O1CN019ZXous1xeOUxVpEr8_!!2710706468.jpg" width="150"/>
+  <img src="https://img.alicdn.com/imgextra/i3/2710706468/O1CN019ZXous1xeOUxVpEr8_!!2710706468.jpg" width="75"/>
 </a><br>
                 <ul>
                     <li><a href="/">トップページ</a></li>

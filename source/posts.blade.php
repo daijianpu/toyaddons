@@ -1,6 +1,6 @@
 @extends('_layouts.master')
 
-@section('title', 'Posts')
+@section('title', '新品情報')
 
 @section('content')
     <h1>新品情報</h1>

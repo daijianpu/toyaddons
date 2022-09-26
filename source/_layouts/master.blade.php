@@ -32,6 +32,7 @@
                      <li><a href="/contact">お問い合せは</a></li>
                      <li><a href="/about">会社概要</a></li>
                 </ul>
+                <hr>
             </nav>
         </header>
 

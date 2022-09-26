@@ -3,7 +3,7 @@
 @section('title', 'Posts')
 
 @section('content')
-    <h1>Posts</h1>
+    <h1>新品情報</h1>
 
     <ul>
         @forelse ($posts->sortBy('title', 'desc') as $post)
@@ -12,7 +12,7 @@
                 <small>{{ $post->prettyDate() }}</small>
             </li>
         @empty
-            <p>No posts to show.</p>
+            <p><a href="/contact">お問い合わせ</a></p>
         @endforelse
     </ul>
 @endsection

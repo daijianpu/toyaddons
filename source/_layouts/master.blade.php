@@ -23,8 +23,9 @@
                 <strong>{{ $page->site->title }}</strong><br>
                 <ul>
                     <li><a href="/">トップページ</a></li>
-                    <li><a href="/posts">Posts</a></li>
-                    <li><a href="/about">About</a></li>
+                    <li><a href="/posts">商品情報</a></li>
+                    <li><a href="/pro">商品情報</a></li>
+                    <li><a href="/about">会社概要</a></li>
                     <li><a href="/contact">お問い合せは</a></li>
                 </ul>
             </nav>

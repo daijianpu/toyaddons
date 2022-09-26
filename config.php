@@ -4,26 +4,9 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'Toyaddons',
+        'description' => 'BANDAI|万代|玩具|ganggu|特撮|仮面ライダー|ウルトラマン|怪獣|食玩|ガチャ|戦隊',
         'image' => 'default-share.png',
-    ],
-    'owner' => [
-        'name' => 'John Doe',
-    ],
-    'links' => [
-        'twitter' => 'https://twitter.com/johndoe',
-        'github' => 'https://github.com/johndoe',
-    ],
-    'services' => [
-        'cmsVersion' => '~2.10',
-        'analytics' => 'UA-XXXXX-Y',
-        'disqus' => 'artisanstatic',
-        'formcarry' => 'XXXXXXXXXXXX',
-        'cloudinary' => [
-            'cloudName' => 'artisanstatic',
-            'apiKey' => '365895137117119',
-        ],
     ],
     'collections' => [
         'posts' => [

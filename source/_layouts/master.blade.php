@@ -26,9 +26,9 @@
 </a><br>
                 <ul>
                     <li><a href="/">トップページ</a></li>
-                    <li><a href="/pro">商品一覧</a></li>
+                    <li><a href="/list">商品一覧</a></li>
                     <li><a href="/posts">商品情報</a></li>
-                     <li><a href="/about">ご注文方法</a></li>
+                     <li><a href="/order">ご注文方法</a></li>
                      <li><a href="/contact">お問い合せは</a></li>
                      <li><a href="/about">会社概要</a></li>
                 </ul>

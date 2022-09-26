@@ -32,7 +32,7 @@
                      <li><a href="/contact">お問い合わせ</a></li>
                      <li><a href="/about">会社概要</a></li>
                 </ul>
-                <hr>
+                <hr style="border-color: silver"/>
             </nav>
         </header>
 
@@ -43,7 +43,7 @@
         </article>
 
         <footer>
-        <hr>
+         <hr style="border-color: silver"/>
             <small>
              &copy; <span data-year></span>&bull;<a href="/about">ToyAddons</a> All rights reserved.
                &bull;<a href="/contact">お問合せ</a>

@@ -1,16 +1,18 @@
 @extends('_layouts.master')
 
-@section('title', 'About')
+@section('title', 'ToyAddons会社概要')
 
 @section('content')
-    <h1>About</h1>
+    <h1>会社概要</h1>
 
-    <p>My name is {{ $page->owner->name }}</p>
+    <p>ToyAddons</p>
 
     <h2>Links:</h2>
 
     <ul>
-        <li><a href="/twitter" target="_blank">Twitter</a></li>
-        <li><a href="/github" target="_blank">GitHub</a></li>
+        <li><a href="/www.Twitter.com" target="_blank">Twitter</a></li>
+        <li><a href="www.Instagram.com" target="_blank">Instagram</a></li>
+        <li><a href="www.Instagram.com" target="_blank">Telegram</a></li>
+        <li><a href="www.Instagram.com" target="_blank">お問い合せは</a></li>
     </ul>
 @endsection

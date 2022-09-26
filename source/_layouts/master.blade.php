@@ -20,7 +20,10 @@
     <section>
         <header>
             <nav>
-                <strong>{{ $page->site->title }}</strong><br>
+                <nav>
+                <a href="/">
+  <img src="https://img.alicdn.com/imgextra/i3/2710706468/O1CN01gYwxPj1xeOUy1nkr9_!!2710706468.jpg" width="50"/>
+</a><br>
                 <ul>
                     <li><a href="/">トップページ</a></li>
                     <li><a href="/pro">商品一覧</a></li>

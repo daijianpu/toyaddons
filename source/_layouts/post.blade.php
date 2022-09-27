@@ -4,8 +4,6 @@
 
 @section('content')
     <h1>{{ $page->title }}</h1>
-<br>
-<small>{{ $post->prettyDate('Y-m-d') }}</small>
 <hr>
     @if ($page->image)
         <img src="{{ $page->image }}" style="object-fit: cover; height: 300px; width: 100%;">

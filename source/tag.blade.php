@@ -1,9 +1,9 @@
 @extends('_layouts.master')
 
-@section('title', '分类')
+@section('title', '分類一覧')
 
 @section('content')
-    <h1>Tags</h1>
+    <h1>分類一覧</h1>
     <hr style="border-color: silver"/>
  <ul>
   <li><a href="/tags/geats" >仮面ライダーギーツ</a></li>

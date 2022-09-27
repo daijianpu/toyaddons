@@ -3,13 +3,13 @@
 @section('title', "Posts tagged '{$page->name()}'")
 
 @section('content')
-    <h1>Posts tagged '{{ $page->name() }}'</h1>
-
+    <h1>Tags'{{ $page->name() }}'</h1>
+<hr style="border-color: silver"/>
     <ul>
         @forelse ($posts->filter->hasTag($page->name()) as $post)
             <li>
                 <a href="{{ $post->getPath() }}">{{ $post->title }}</a>
-                <small>{{ $post->prettyDate() }}</small>
+                <small>{{ $post->prettyDate('Y-m-d') }}</small>
             </li>
         @empty
             <p><a href="/contact">お問い合せは</a></p>

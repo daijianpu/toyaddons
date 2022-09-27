@@ -9,7 +9,7 @@
         @forelse ($posts->sortBy('title', 'desc') as $post)
             <li>
                 <a href="{{ $post->getPath() }}">{{ $post->title }}</a>
-                <small>{{ $post->prettyDate() }}</small>
+               <small>{{ $post->prettyDate('Y-m-d') }}</small>
             </li>
             <hr style="border-color: silver"/>
         @empty

@@ -1,9 +1,9 @@
 @extends('_layouts.master')
 
-@section('title', "Tags '{$page->name()}'")
+@section('title', "分類'{$page->name()}'")
 
 @section('content')
-    <h1>Tags'{{ $page->name() }}'</h1>
+    <h1>分類'{{ $page->name() }}'</h1>
 <hr style="border-color: silver"/>
     <ul>
         @forelse ($posts->filter->hasTag($page->name()) as $post)

@@ -8,7 +8,7 @@ tags:
   - geats
   - decker
   - trigger
-image: https://toy.bandai.co.jp/temp/f46t3t596x4y6otsj2ir7hz8izqtl8vl10x2js.jpg
+image: https://toy.bandai.co.jp/img/115_1055_o_1g94g8l34r6rku6f5773r74fh.jpg
 comments: false
 ---
 Toyaddons.com

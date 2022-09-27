@@ -1,6 +1,6 @@
 @extends('_layouts.master')
 
-@section('title', "Posts tagged '{$page->name()}'")
+@section('title', "Tags '{$page->name()}'")
 
 @section('content')
     <h1>Tags'{{ $page->name() }}'</h1>

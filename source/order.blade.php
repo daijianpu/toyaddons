@@ -18,6 +18,8 @@
 <hr style="border-color: silver"/>
 <h2><li><a target="_blank" href="/contact" alt="お支払い方法">2.お支払い方法</a></li></h2>
 <img src="https://img.alicdn.com/imgextra/i3/2710706468/O1CN01EMta6M1xeOXPlRCv0_!!2710706468.gif" width="800" alt="お支払い方法" />
+h2><li><a target="_blank" href="https://www.westernunion.com/jp/ja/find-locations.html" alt="westernunion">WesternUnion</a></li></h2>
+<h2><li><a target="_blank" href="https://moneygram.jp/moneygram%E3%81%AE%E5%A0%B4%E6%89%80" alt="moneyGram">moneyGram</a></li></h2>
 <hr style="border-color: silver"/>
  <h2><li><a target="_blank" href="/contact" alt="送料">3.送料</a></li></h2>
  <img src="https://img.alicdn.com/imgextra/i1/2710706468/O1CN0178L5cN1xeOXFDLm0J_!!2710706468.gif" width="800" alt="送料" />

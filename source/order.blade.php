@@ -18,13 +18,13 @@
 <hr style="border-color: silver"/>
 <h2><li><a target="_blank" href="/contact" alt="お支払い方法">2.お支払い方法</a></li></h2>
 <img src="https://img.alicdn.com/imgextra/i3/2710706468/O1CN01EMta6M1xeOXPlRCv0_!!2710706468.gif" width="800" alt="お支払い方法" />
-
+<hr style="border-color: silver"/>
  <h2><li><a target="_blank" href="/contact" alt="送料">3.送料</a></li></h2>
  <img src="https://img.alicdn.com/imgextra/i1/2710706468/O1CN0178L5cN1xeOXFDLm0J_!!2710706468.gif" width="800" alt="送料" />
- 
+ <hr style="border-color: silver"/>
   <h2><li><a target="_blank" href="/contact" alt="配達時間">4.配達時間</a></li></h2>
   <img src="https://img.alicdn.com/imgextra/i4/2710706468/O1CN01znJefX1xeOXNkIkcP_!!2710706468.gif" width="800" alt="ご配達時間" />
-
+<hr style="border-color: silver"/>
   <h2><li><a target="_blank" href="/contact" alt="お問い合せは">5.お問い合せは</a></li></h2>
   <img src="https://img.alicdn.com/imgextra/i4/2710706468/O1CN01YVRLff1xeOXFDKld6_!!2710706468.gif" width="800" alt="お問い合せは" />
  </ul>

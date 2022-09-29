@@ -25,7 +25,7 @@
   <h2><li><a target="_blank" href="/contact" alt="配達時間">4.配達時間</a></li></h2>
   <img src="https://img.alicdn.com/imgextra/i4/2710706468/O1CN01znJefX1xeOXNkIkcP_!!2710706468.gif" width="800" alt="ご配達時間" />
 
-  <h2><li><a target="_blank" href="/contact" alt="お問い合せは">4.お問い合せは</a></li></h2>
+  <h2><li><a target="_blank" href="/contact" alt="お問い合せは">5.お問い合せは</a></li></h2>
   <img src="https://img.alicdn.com/imgextra/i4/2710706468/O1CN01YVRLff1xeOXFDKld6_!!2710706468.gif" width="800" alt="お問い合せは" />
  </ul>
 @endsection

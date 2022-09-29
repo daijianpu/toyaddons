@@ -5,6 +5,7 @@
 @section('content')
 <h1>ご利用ガイド</h1>
 <h2>1.ご注文の流れ</h2>
+ <ul>
 <h3><li><a target="_blank" href="https://toyaddons.com/list" alt="商品一覧">1.商品選択→2.レコード番号→3.メール送信→4.返信待ち
 </a></li></h3>
 <hr style="border-color: silver"/>

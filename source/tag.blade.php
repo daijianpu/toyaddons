@@ -5,7 +5,8 @@
 @section('content')
     <h1>分類一覧</h1>
  <hr style="border-color: silver"/>
-<h2><li><a href="/tags/addons" >Addons</a></li><h2>
+<ul>
+<li><a href="/tags/addons" >Addons</a></li>
 <li><a href="/tags/shf" >SHF</a></li>
 <li><a href="/tags/csm" >CSM</a></li>
 <li><a href="/tags/ur" >UR</a></li>
@@ -25,4 +26,5 @@
 <li><a href="/tags/decker" >ウルトラマンデッカーDecker</a></li>
  <li><a href="/tags/trigger" >ウルトラマントリガーTrigger</a></li>
 <li><a href="/list" >商品一覧</a></li>
+</ul>
 @endsection

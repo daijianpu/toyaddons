@@ -9,5 +9,5 @@
        <br>
 問題にぶつかったら、ためらわないでください。<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=Tn9-e3t6end3Dj8-YC0hIw" style="text-decoration:none;">私たちに連絡して</a>、助けを得てください！
 <br>
-<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=Tn9-e3t6end3Dj8-YC0hIw" style="text-decoration:none;">お問い合せは</a>
+<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=Tn9-e3t6end3Dj8-YC0hIw" style="text-decoration:none;">→お問い合せは←</a>
 @endsection

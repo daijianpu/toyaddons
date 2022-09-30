@@ -19,6 +19,7 @@
 <li><a href="/tags/zeroone" > 仮面ライダーゼロワンZeroOne</a></li>
  <li><a href="/tags/zio" > 仮面ライダージオウZio</a></li>
  <li><a href="/tags/build" >仮面ライダービルドBuild</a></li>
+ <li><a href="/tags/exaid" >仮面ライダーエグゼイドExaid</a></li>
 <br>
 <li><a href="/tags/ultraman" >ウルトラマンUltraman</a></li> 
 <hr style="border-color: silver"/> 

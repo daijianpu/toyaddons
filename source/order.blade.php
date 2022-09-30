@@ -11,7 +11,7 @@
 <hr style="border-color: silver"/>
 <a href="/list"><img src="https://img.alicdn.com/imgextra/i2/2710706468/O1CN01EEztTi1xeOXJs0U6J_!!2710706468.gif" width="800" alt="商品選択" /></a>
 <hr style="border-color: silver"/>
-<a href="/list"><img src="https://img.alicdn.com/imgextra/i2/2710706468/O1CN01nQkHul1xeOXFZnsVv_!!2710706468.gif" width="800" alt="レコード番号" /></a>
+<a href="/list"><img src="https://toyaddons.files.wordpress.com/2022/09/22.jpg" width="800" alt="レコード番号" /></a>
 <hr style="border-color: silver"/>
 <a href="/list"><img src="https://img.alicdn.com/imgextra/i3/2710706468/O1CN01tfMJLN1xeOXHqA3Gq_!!2710706468.gif" width="800" alt="メール送信" /></a>
 <hr style="border-color: silver"/>

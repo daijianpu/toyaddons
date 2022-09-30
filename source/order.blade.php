@@ -18,7 +18,7 @@
 <a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=Tn9-e3t6end3Dj8-YC0hIw"><img src="https://toyaddons.files.wordpress.com/2022/09/toyaddons_05.jpg" width="800" alt="ご返信待ち" /></a>
 <hr style="border-color: silver"/>
 <h2><li><a target="_blank" href="/contact" alt="お支払い方法">2.お支払い方法</a></li></h2>
-<img src="https://img.alicdn.com/imgextra/i3/2710706468/O1CN01EMta6M1xeOXPlRCv0_!!2710706468.gif" width="800" alt="お支払い方法" />
+<img src="https://toyaddons.files.wordpress.com/2022/09/order_01.jpg" width="800" alt="お支払い方法" />
 <li><a target="_blank" href="https://www.westernunion.com/jp/ja/find-locations.html" alt="westernunion">WesternUnion</a></li>
 <li><a target="_blank" href="https://moneygram.jp/moneygram%E3%81%AE%E5%A0%B4%E6%89%80" alt="moneyGram">MoneyGram</a></li>
 <hr style="border-color: silver"/>

@@ -6,8 +6,8 @@
 <h1>ご利用ガイド</h1>
 <h2>1.ご注文の流れ</h2>
  <ul>
-<h3><li><a target="_blank" href="https://toyaddons.com/list" alt="商品一覧">1.商品選択→2.レコード番号→3.メール送信→4.返信待ち
-</a></li></h3>
+<li><a target="_blank" href="https://toyaddons.com/list" alt="商品一覧">1.商品選択→2.レコード番号→3.メール送信→4.返信待ち
+</a></li>
 <hr style="border-color: silver"/>
 <img src="https://img.alicdn.com/imgextra/i2/2710706468/O1CN01EEztTi1xeOXJs0U6J_!!2710706468.gif" width="800" alt="商品選択" />
 <hr style="border-color: silver"/>

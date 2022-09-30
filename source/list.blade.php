@@ -8,7 +8,7 @@
 <h3>商品一覧</h3>
  <ul>
  <hr style="border-color: silver"/>
-<h2><li><a href="/order">ご注文方法</a></li></h2>
- <h2><li><a href="/contact">お問い合わせ</a></li></h2>
+<li><a href="/order">ご注文方法</a></li>
+<li><a href="/contact">お問い合わせ</a></li>
     </ul>
 @endsection

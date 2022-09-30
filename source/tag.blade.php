@@ -26,3 +26,5 @@
  <li><a href="/tags/trigger" >ウルトラマントリガーTrigger</a></li>
 <li><a href="/list" >商品一覧</a></li>
 @endsection
+
+@endsection

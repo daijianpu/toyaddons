@@ -10,6 +10,9 @@
 <li><a href="/tags/shf" >SHF</a></li>
 <li><a href="/tags/csm" >CSM</a></li>
 <li><a href="/tags/ur" >UR</a></li>
+<li><a href="/tags/dx" >DX</a></li>
+<li><a href="/tags/jppb" >日本限定</a></li>
+<li><a href="/tags/cnpb" >中国限定</a></li>
  <br>
 <hr style="border-color: silver"/>
 <h2><li><a href="/tags/kamenrider" >仮面ライダーKamenRider</a></li></h2>

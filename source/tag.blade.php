@@ -6,10 +6,10 @@
     <h1>分類一覧</h1>
  <hr style="border-color: silver"/>
 <ul>
-<h2><li><a href="/tags/addons" >Addons</a></li></h2>
-<h2><li><a href="/tags/shf" >SHF</a></li></h2>
-<h2><li><a href="/tags/csm" >CSM</a></li></h2>
-<h2><li><a href="/tags/ur" >UR</a></li></h2>
+<li><a href="/tags/addons" >Addons</a></li>
+<li><a href="/tags/shf" >SHF</a></li>
+<li><a href="/tags/csm" >CSM</a></li>
+<li><a href="/tags/ur" >UR</a></li>
  <br>
 <hr style="border-color: silver"/>
 <h2><li><a href="/tags/kamenrider" >仮面ライダーKamenRider</a></li></h2>

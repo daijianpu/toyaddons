@@ -46,7 +46,7 @@
          <hr style="border-color: silver"/>
             <small>
              &copy; <span data-year></span>&bull;<a href="/about">ToyAddons</a> All rights reserved.
-               &bull;<a href="/contact">お問い合わせ</a>&bull;
+               &bull;<a href="/contact">→問合←</a>&bull;
             </small>
         </footer>
     </section>

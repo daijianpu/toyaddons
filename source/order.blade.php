@@ -9,11 +9,11 @@
 <li><a target="_blank" href="https://toyaddons.com/list" alt="商品一覧">1.商品選択→2.レコード番号→3.メール送信→4.返信待ち
 </a></li>
 <hr style="border-color: silver"/>
-<a href="/list"><img src="https://img.alicdn.com/imgextra/i2/2710706468/O1CN01EEztTi1xeOXJs0U6J_!!2710706468.gif" width="800" alt="商品選択" /></a>
+<a href="/list"><img src="https://toyaddons.files.wordpress.com/2022/09/toyaddons_01.jpg" width="800" alt="商品選択" /></a>
 <hr style="border-color: silver"/>
-<a href="/list"><img src="https://toyaddons.files.wordpress.com/2022/09/22.jpg" width="800" alt="レコード番号" /></a>
+<a href="/list"><img src="https://toyaddons.files.wordpress.com/2022/09/toyaddons_042.jpg" width="800" alt="レコード番号" /></a>
 <hr style="border-color: silver"/>
-<a href="/list"><img src="https://img.alicdn.com/imgextra/i3/2710706468/O1CN01tfMJLN1xeOXHqA3Gq_!!2710706468.gif" width="800" alt="メール送信" /></a>
+<a href="/list"><img src="https://toyaddons.files.wordpress.com/2022/09/toyaddons_05.jpg" width="800" alt="メール送信" /></a>
 <hr style="border-color: silver"/>
 <a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=Tn9-e3t6end3Dj8-YC0hIw"><img src="https://img.alicdn.com/imgextra/i4/2710706468/O1CN01vz95CG1xeOXHfD3PJ_!!2710706468.gif" width="800" alt="ご返信待ち" /></a>
 <hr style="border-color: silver"/>

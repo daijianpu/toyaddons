@@ -29,6 +29,6 @@
   <img src="https://img.alicdn.com/imgextra/i4/2710706468/O1CN01znJefX1xeOXNkIkcP_!!2710706468.gif" width="800" alt="ご配達時間" />
 <hr style="border-color: silver"/>
   <h2><li><a target="_blank" href="/contact" alt="お問い合せは">5.お問い合せは</a></li></h2>
-  <img src="https://img.alicdn.com/imgextra/i4/2710706468/O1CN01YVRLff1xeOXFDKld6_!!2710706468.gif" width="800" alt="お問い合せは" />
+   <a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=Tn9-e3t6end3Dj8-YC0hIw"><img src="https://img.alicdn.com/imgextra/i4/2710706468/O1CN01USaoks1xeOXOrhsEi_!!2710706468.gif" width="780" alt="お問合せ" /></a>
  </ul>
 @endsection

@@ -7,7 +7,7 @@
  <hr style="border-color: silver"/>
 <ul>
 <li><a href="/tags/addons" >Addons</a></li>
-<li><a href="/tags/hack" >hack</a></li>
+<li><a href="/tags/hack" >Hack</a></li>
 <li><a href="/tags/shf" >SHF</a></li>
 <li><a href="/tags/csm" >CSM</a></li>
 <li><a href="/tags/ur" >UR</a></li>

@@ -25,8 +25,7 @@
   <img src="https://img.alicdn.com/imgextra/i3/2710706468/O1CN019ZXous1xeOUxVpEr8_!!2710706468.jpg" width="75"/>
 </a><br>
                 <ul>
-                <li><a href="/tag">分類Category</a></li>
-                    <li><a href="/list">商品Products</a></li>
+                <li><a href="/tag">新品Tags</a></li>
                     <li><a href="/posts">情報News</a></li>
                      <li><a href="/order">注文Order</a></li>
                      <li><a href="/contact">問合Contact</a></li>

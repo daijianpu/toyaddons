@@ -29,7 +29,7 @@
                     <li><a href="/list">商品Products</a></li>
                     <li><a href="/posts">情報News</a></li>
                      <li><a href="/order">注文Order</a></li>
-                     <li><a href="/contact">問合Contat</a></li>
+                     <li><a href="/contact">問合Contact</a></li>
                      <li><a href="/about">概要About</a></li>
                 </ul>
                 <hr style="border-color: silver"/>

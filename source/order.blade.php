@@ -1,34 +1,20 @@
 @extends('_layouts.master')
 
-@section('title', 'ご注文方法')
+@section('title', '注文方法Shopping process')
 
 @section('content')
-<h1>ご利用ガイド</h1>
-<h2>1.ご注文の流れ</h2>
- <ul>
-<li><a target="_blank" href="https://toyaddons.com/list" alt="商品一覧">1.商品選択→2.レコード番号→3.メール送信→4.返信待ち
-</a></li>
+<h1>ご利用ガイドHelp Center</h1>
 <hr style="border-color: silver"/>
-<a href="/list"><img src="https://toyaddons.files.wordpress.com/2022/09/toyaddons_01.jpg" width="800" alt="商品選択" /></a>
+私たちはたくさんの製品を持っています。どの製品を購入したいのか、教えてください。
+</br>
+私たちはあなたに価格と在庫を教えて、それからあなたの支払いを手配して、あなたに出荷します。
+</br>
+私たちに連絡して、助けを得てください！
 <hr style="border-color: silver"/>
-<a href="/list"><img src="https://toyaddons.files.wordpress.com/2022/09/22.jpg" width="800" alt="レコード番号" /></a>
-<hr style="border-color: silver"/>
-<a href="/list"><img src="https://toyaddons.files.wordpress.com/2022/09/toyaddons_042.jpg" width="800" alt="メール送信" /></a>
-<hr style="border-color: silver"/>
-<a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=Tn9-e3t6end3Dj8-YC0hIw"><img src="https://toyaddons.files.wordpress.com/2022/09/toyaddons_05.jpg" width="800" alt="ご返信待ち" /></a>
-<hr style="border-color: silver"/>
-<h2><li><a target="_blank" href="/contact" alt="お支払い方法">2.お支払い方法</a></li></h2>
-<img src="https://toyaddons.files.wordpress.com/2022/09/order_01.jpg" width="800" alt="お支払い方法" />
-<li><a target="_blank" href="https://www.westernunion.com/jp/ja/find-locations.html" alt="westernunion">WesternUnion</a></li>
-<li><a target="_blank" href="https://moneygram.jp/moneygram%E3%81%AE%E5%A0%B4%E6%89%80" alt="moneyGram">MoneyGram</a></li>
-<hr style="border-color: silver"/>
- <h2><li><a target="_blank" href="/contact" alt="送料">3.送料</a></li></h2>
- <img src="https://img.alicdn.com/imgextra/i1/2710706468/O1CN0178L5cN1xeOXFDLm0J_!!2710706468.gif" width="800" alt="送料" />
- <hr style="border-color: silver"/>
-  <h2><li><a target="_blank" href="/contact" alt="配達時間">4.配達時間</a></li></h2>
-  <img src="https://img.alicdn.com/imgextra/i4/2710706468/O1CN01znJefX1xeOXNkIkcP_!!2710706468.gif" width="800" alt="ご配達時間" />
-<hr style="border-color: silver"/>
-  <h2><li><a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=Tn9-e3t6end3Dj8-YC0hIw" alt="お問い合せは">5.お問い合せは</a></li></h2>
-   <a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=Tn9-e3t6end3Dj8-YC0hIw"><img src="https://img.alicdn.com/imgextra/i4/2710706468/O1CN01USaoks1xeOXOrhsEi_!!2710706468.gif" width="780" alt="お問合せ" /></a>
+We have many products. Please tell us which product you want to buy.
+</br>
+We will tell you the price and inventory, arrange your payment, and deliver the goods to you.
+</br>
+Please contact us for help!
  </ul>
 @endsection

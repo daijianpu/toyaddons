@@ -44,7 +44,7 @@
         <footer>
          <hr style="border-color: silver"/>
             <small>
-             &copy; <span data-year></span>&bull;<a href="/about">ToyAddons</a> All rights reserved.
+             &copy; <span data-year></span>&bull;<a href="/about">Tehaccho</a> All rights reserved.
                &bull;<a href="/contact">→問合Contact←</a>&bull;
             </small>
         </footer>

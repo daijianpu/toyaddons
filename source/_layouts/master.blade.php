@@ -26,7 +26,7 @@
 </a><br>
                 <ul>
                 <li><a href="/tag">分類Category</a></li>
-                    <li><a href="/list">商品Product</a></li>
+                    <li><a href="/list">商品Products</a></li>
                     <li><a href="/posts">情報News</a></li>
                      <li><a href="/order">注文Order</a></li>
                      <li><a href="/contact">問合Contat</a></li>

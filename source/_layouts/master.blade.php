@@ -25,12 +25,11 @@
   <img src="https://img.alicdn.com/imgextra/i3/2710706468/O1CN019ZXous1xeOUxVpEr8_!!2710706468.jpg" width="75"/>
 </a><br>
                 <ul>
-                    <li><a href="/list">商品</a></li>
-                    <li><a href="/tag/">分類</a></li>
-                    <li><a href="/posts">情報</a></li>
-                     <li><a href="/order">注文</a></li>
-                     <li><a href="/contact">問合</a></li>
-                     <li><a href="/about">概要</a></li>
+                    <li><a href="/list">商品Product</a></li>
+                    <li><a href="/posts">情報News</a></li>
+                     <li><a href="/order">注文Order</a></li>
+                     <li><a href="/contact">問合Contat</a></li>
+                     <li><a href="/about">概要About</a></li>
                 </ul>
                 <hr style="border-color: silver"/>
             </nav>
@@ -46,7 +45,7 @@
          <hr style="border-color: silver"/>
             <small>
              &copy; <span data-year></span>&bull;<a href="/about">ToyAddons</a> All rights reserved.
-               &bull;<a href="/contact">→問合←</a>&bull;
+               &bull;<a href="/contact">→問合Contact←</a>&bull;
             </small>
         </footer>
     </section>

@@ -13,7 +13,7 @@
             </li>
             <hr style="border-color: silver"/>
         @empty
-            <p><a href="/contact">お問い合わせ</a></p>
+            <p><a href="/contact">お問い合わせContact</a></p>
         @endforelse
     </ul>
 @endsection

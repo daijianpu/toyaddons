@@ -1,9 +1,9 @@
 @extends('_layouts.master')
 
-@section('title', '分類一覧')
+@section('title', '分類Category')
 
 @section('content')
-    <h1>分類一覧</h1>
+    <h1>分類Category</h1>
  <hr style="border-color: silver"/>
 <ul>
 <li><a href="/tags/addons" >Addons</a></li>
@@ -28,6 +28,6 @@
 <h2><li><a href="/tags/ultraman" >ウルトラマンUltraman</a></li></h2>
 <li><a href="/tags/decker" >ウルトラマンデッカーDecker</a></li>
  <li><a href="/tags/trigger" >ウルトラマントリガーTrigger</a></li>
-<li><a href="/list" >商品一覧</a></li>
+<li><a href="/list" >商品Product</a></li>
 </ul>
 @endsection
